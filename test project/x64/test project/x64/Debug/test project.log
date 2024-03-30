@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\R\source\repos\test project\test project\Source.cpp(14,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\R\source\repos\test project\test project\Source.cpp(85,21): warning C4305: 'argument': truncation from 'double' to 'float'
+  test project.vcxproj -> C:\Users\R\source\repos\test project\x64\Debug\test project.exe
